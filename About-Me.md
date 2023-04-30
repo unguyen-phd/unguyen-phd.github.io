@@ -1,5 +1,5 @@
 layout: page
 title: "About Me"
-permalink: https://unguyen-phd.github.io/about/contact
+permalink: /about/
 
 ## This is Dra. U. Nguyen
